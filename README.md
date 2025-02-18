@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikhilchikkam
 - 👀 I’m interested in Web Development and Big Data Analytics
-- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on interesting ideas
 - 📫 How to reach me nikhilchikkam33@gmail.com
 <!---
